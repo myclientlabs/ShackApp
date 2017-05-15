@@ -1,0 +1,7 @@
+C:\Users\benet\Coding\ben-etzkorn-individual-work\ShackUp\ShackUp\ShackUp.Data\bin\Debug\ShackUp.Data.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\ShackUp\ShackUp\ShackUp.Data\bin\Debug\ShackUp.Data.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\ShackUp\ShackUp\ShackUp.Data\bin\Debug\ShackUp.Models.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\ShackUp\ShackUp\ShackUp.Data\bin\Debug\ShackUp.Models.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\ShackUp\ShackUp\ShackUp.Data\obj\Debug\ShackUp.Data.csprojResolveAssemblyReference.cache
+C:\Users\benet\Coding\ben-etzkorn-individual-work\ShackUp\ShackUp\ShackUp.Data\obj\Debug\ShackUp.Data.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\ShackUp\ShackUp\ShackUp.Data\obj\Debug\ShackUp.Data.pdb

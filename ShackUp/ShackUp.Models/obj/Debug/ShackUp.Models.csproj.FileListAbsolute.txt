@@ -1,0 +1,4 @@
+C:\Users\benet\Coding\ben-etzkorn-individual-work\ShackUp\ShackUp\ShackUp.Models\bin\Debug\ShackUp.Models.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\ShackUp\ShackUp\ShackUp.Models\bin\Debug\ShackUp.Models.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\ShackUp\ShackUp\ShackUp.Models\obj\Debug\ShackUp.Models.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\ShackUp\ShackUp\ShackUp.Models\obj\Debug\ShackUp.Models.pdb

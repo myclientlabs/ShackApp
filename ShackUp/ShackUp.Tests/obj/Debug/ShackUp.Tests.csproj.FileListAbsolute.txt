@@ -1,0 +1,12 @@
+C:\Users\benet\Coding\ben-etzkorn-individual-work\ShackUp\ShackUp\ShackUp.Tests\bin\Debug\ShackUp.Tests.dll.config
+C:\Users\benet\Coding\ben-etzkorn-individual-work\ShackUp\ShackUp\ShackUp.Tests\bin\Debug\ShackUp.Tests.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\ShackUp\ShackUp\ShackUp.Tests\bin\Debug\ShackUp.Tests.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\ShackUp\ShackUp\ShackUp.Tests\bin\Debug\nunit.framework.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\ShackUp\ShackUp\ShackUp.Tests\bin\Debug\ShackUp.Data.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\ShackUp\ShackUp\ShackUp.Tests\bin\Debug\ShackUp.Models.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\ShackUp\ShackUp\ShackUp.Tests\bin\Debug\ShackUp.Data.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\ShackUp\ShackUp\ShackUp.Tests\bin\Debug\ShackUp.Models.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\ShackUp\ShackUp\ShackUp.Tests\bin\Debug\nunit.framework.xml
+C:\Users\benet\Coding\ben-etzkorn-individual-work\ShackUp\ShackUp\ShackUp.Tests\obj\Debug\ShackUp.Tests.csprojResolveAssemblyReference.cache
+C:\Users\benet\Coding\ben-etzkorn-individual-work\ShackUp\ShackUp\ShackUp.Tests\obj\Debug\ShackUp.Tests.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\ShackUp\ShackUp\ShackUp.Tests\obj\Debug\ShackUp.Tests.pdb

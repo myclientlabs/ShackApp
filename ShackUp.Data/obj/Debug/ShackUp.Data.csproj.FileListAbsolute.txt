@@ -1,0 +1,7 @@
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.Data\bin\Debug\ShackUp.Data.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.Data\bin\Debug\ShackUp.Data.pdb
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.Data\bin\Debug\ShackUp.Models.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.Data\bin\Debug\ShackUp.Models.pdb
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.Data\obj\Debug\ShackUp.Data.csprojResolveAssemblyReference.cache
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.Data\obj\Debug\ShackUp.Data.dll
+E:\workspace\SG-works\misc\BenEtzkorn\ShackUp\ShackUp.Data\obj\Debug\ShackUp.Data.pdb
